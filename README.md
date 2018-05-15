@@ -1,1 +1,1 @@
-# FuncionalHaskell
+Implementações feitas na linguagem Haskell. Este repositorio contem algumas implementações que foram feitas durante a disciplina de programação funcional do curso de Ciência da Computação do Campus UFC-Quixadá.
